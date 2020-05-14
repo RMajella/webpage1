@@ -1,2 +1,2 @@
 Fist webpage project.
-Alura online lessons.
+Alura and Codecademy online lessons
